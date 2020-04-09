@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4b44a30-85db-41cc-b064-3a66eef0de30" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/heroicons-repo" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1aJCZUeGXnDIEJNzNLNWvuGJm7C" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.16.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../apps/tasks" />
+    <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/versions/node/v12.16.1/bin/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4b44a30-85db-41cc-b064-3a66eef0de30" name="Default Changelist" comment="" />
+      <created>1586444364615</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586444364615</updated>
+      <workItem from="1586444366122" duration="3412000" />
+      <workItem from="1586447799742" duration="3862000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/heroicon-repo" />
+      <path value="$PROJECT_DIR$/heroicons-repo" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="211" width="1084" height="695" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586447774366">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="418" y="211" width="1084" height="695" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1586447774365" />
+    <state x="786" y="257" width="424" height="582" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1586447994960">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="786" y="257" width="424" height="582" key="#com.intellij.ide.macro.MacrosDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1586447994960" />
+    <state x="615" y="131" width="777" height="837" key="EditFileWatcherDialog" timestamp="1586448002429">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="615" y="131" width="777" height="837" key="EditFileWatcherDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1586448002429" />
+    <state x="743" y="311" width="424" height="482" key="FileChooserDialogImpl" timestamp="1586450267104">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="743" y="311" width="424" height="482" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1586450267104" />
+    <state x="456" y="188" width="977" height="728" key="SettingsEditor" timestamp="1586448139620">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="456" y="188" width="977" height="728" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1586448139620" />
+  </component>
+</project>
